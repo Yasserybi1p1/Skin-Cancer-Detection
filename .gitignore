@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Large Datasets and CSVs (keep metadata only)
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+hmnist_28_28_L.csv
+hmnist_28_28_RGB.csv
+hmnist_8_8_L.csv
+hmnist_8_8_RGB.csv
+
+# Large trained model files (Keras/H5/TensorFlow)
+output/*.keras
+output/*.h5
+output/variables/
+output/assets/
+output/saved_model.pb
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store

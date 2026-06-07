@@ -1,0 +1,16 @@
+HAM10000 Skin Cancer Detection - Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+       akiec      0.237     0.500     0.322        46
+         bcc      0.256     0.694     0.374        62
+         bkl      0.529     0.105     0.175       172
+          df      0.067     0.500     0.119        14
+         mel      0.394     0.444     0.417       151
+          nv      0.918     0.748     0.825      1053
+        vasc      0.205     0.857     0.330        21
+
+    accuracy                          0.635      1519
+   macro avg      0.372     0.550     0.366      1519
+weighted avg      0.757     0.635     0.664      1519
