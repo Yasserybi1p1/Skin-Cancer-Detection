@@ -24,7 +24,7 @@ hmnist_8_8_L.csv
 hmnist_8_8_RGB.csv
 
 # Large trained model files (Keras/H5/TensorFlow)
-output/*.keras
+# output/*.keras
 output/*.h5
 output/variables/
 output/assets/
