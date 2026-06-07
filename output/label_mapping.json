@@ -36,8 +36,8 @@
     "vasc": 6
   },
   "metrics": {
-    "accuracy": 0.6346280447662936,
-    "weighted_auc": 0.8719357737414156
+    "accuracy": 0.56550362080316,
+    "weighted_auc": 0.8724756719399722
   },
   "input_shape": [
     224,
